@@ -5,9 +5,9 @@
 Главная особенность приложения — **вы точно не пропустите окончание таймера, даже если отошли от ПК**. Когда время выйдет, программа воспроизведёт мягкий звуковой сигнал, покажет системное уведомление, развернётся поверх остальных окон и **начнёт плавно пульсировать на экране**, пока вы не вернётесь и не кликнете по ней.
 
 <p align="center">
-  <img src="ПУТЬ_ИЛИ_ССЫЛКА_НА_СКРИНШОТ_1.png" width="45%" alt="Скриншот 1" />
+  <img width="440" height="580" alt="focus_screenshot_1" src="https://github.com/user-attachments/assets/588431f6-e0ea-4e6a-82d1-d3b908bafe87" />
   &nbsp;&nbsp;&nbsp;
-  <img src="ПУТЬ_ИЛИ_ССЫЛКА_НА_СКРИНШОТ_2.png" width="45%" alt="Скриншот 2" />
+  <img width="440" height="580" alt="focus_screenshot_2" src="https://github.com/user-attachments/assets/2b2aa94d-6182-44eb-afc9-3a2b793fd8ee" />
 </p>
 
 ---
